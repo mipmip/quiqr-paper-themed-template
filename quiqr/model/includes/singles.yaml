@@ -1,6 +1,9 @@
 - key: images
   _mergePartial: https://raw.githubusercontent.com/quiqr/model-partials/main/singles/global-images.yml
 
+- key: etalage
+  _mergePartial: etalage
+
 - key: mainConfig
   title: Site Config
   file: config.toml

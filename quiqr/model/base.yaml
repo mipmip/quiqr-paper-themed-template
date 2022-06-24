@@ -20,6 +20,7 @@ menu:
     title: "Instellingen "
     menuItems:
       - key: mainConfig
+      - key: etalage
 
 
 serve:
