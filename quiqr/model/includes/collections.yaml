@@ -26,7 +26,7 @@
 - dataformat: yaml
   folder: content/post
   itemtitle: Post
-  key: post
+  key: posts
   title: Posts
   hideIndex: true
   extension: md
