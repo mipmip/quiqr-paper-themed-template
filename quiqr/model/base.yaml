@@ -4,25 +4,6 @@ build:
 
 hugover: extended_0.76.5
 
-menu:
-  - key: Content
-    title: Content
-    menuItems:
-      - key: pages
-      - key: posts
-
-  - key: images
-    title: Images
-    menuItems:
-      - key: images
-
-  - key: Settings
-    title: "Instellingen "
-    menuItems:
-      - key: mainConfig
-      - key: etalage
-
-
 serve:
   - config: config.toml
     key: default

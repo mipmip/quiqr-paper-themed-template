@@ -1,0 +1,9 @@
+---
+title: Dashboard
+file: ./quiqr/home/index.md
+fields:
+  - key: mainContent
+    title: Main content
+    type: markdown
+
+
