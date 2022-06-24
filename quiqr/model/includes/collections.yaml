@@ -1,8 +1,34 @@
 - dataformat: yaml
+  folder: content/
+  itemtitle: Page
+  key: pages
+  title: Pages
+  hideIndex: true
+  includeSubdirs: false
+  extension: md
+  fields:
+    - key: title
+      title: Title
+      type: string
+    - key: date
+      title: Date
+      type: date
+    - key: author
+      title: Author
+      type: string
+    - key: description
+      title: Description
+      type: string
+    - key: mainContent
+      title: Main content
+      type: markdown
+
+- dataformat: yaml
   folder: content/post
   itemtitle: Post
   key: post
   title: Posts
+  hideIndex: true
   extension: md
   fields:
     - key: title
