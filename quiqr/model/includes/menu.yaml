@@ -16,6 +16,7 @@
 
 - key: Developer
   title: "Developer"
+  matchRole: siteDeveloper
   menuItems:
     - key: dashboard
     - key: etalage
