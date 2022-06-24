@@ -7,7 +7,7 @@ how to customize your Site Admin.
 Quiqr is a Desktop App made for [Hugo](https://gohugo.io). Read all about
 [creating Hugo websites](https://gohugo.io/getting-started/quick-start/).
 
-To change this about text, edit this file: */Users/pim/Sukoh/sites/hugo-paper-with-quiqrcms/main/quiqr/home/index.md*.
+To change this about text, edit this file: *~/Quiqr Data/sites/hugo-paper-with-quiqrcms/main/quiqr/home/index.md*.
 
 Happy Creating.
 
