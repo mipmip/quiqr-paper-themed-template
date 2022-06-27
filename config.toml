@@ -1,6 +1,6 @@
 baseURL = "/"
 author = "Steve Francia"
-copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
+copyright = "Copyright © 2008–2021, Steve Francia, The lee.so, and Pim Snel; all rights reserved."
 paginate = 3.0
 languageCode = "en"
 DefaultContentLanguage = "en"
