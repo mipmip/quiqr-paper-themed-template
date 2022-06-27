@@ -1,9 +1,4 @@
----
-resources: []
-
----
-
-# Paper for Quiqr
+# Paper with Quiqr
 
 A Quiqr Template based on the famous Paper theme.
 
