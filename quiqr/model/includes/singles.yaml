@@ -1,4 +1,5 @@
 - key: images
+  description: global images
   _mergePartial: https://raw.githubusercontent.com/quiqr/model-partials/main/singles/global-images.yml
 
 - key: etalage

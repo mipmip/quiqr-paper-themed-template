@@ -1,5 +1,6 @@
 ---
 title: Site Config
+description: Hugo & Site Configuration values
 file: config.toml
 fields:
   - key: title

@@ -1,4 +1,5 @@
 - dataformat: yaml
+  description: Pages like about, etc...
   folder: content/
   itemtitle: Page
   key: pages
@@ -24,6 +25,7 @@
       type: markdown
 
 - dataformat: yaml
+  description: Blog Posts
   folder: content/post
   itemtitle: Post
   key: posts

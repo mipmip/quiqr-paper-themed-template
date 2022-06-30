@@ -1,19 +1,14 @@
----
-resources: []
-
----
-
 # Paper for Quiqr
 
-If you're a website developer you can read the [Quiqr Site Developer
-Docs](https://book.quiqr.org/)
-how to customize your Site Admin.
+⚡️ Fast | 🦋 Fluent | 🪀 Smooth
 
-Quiqr is a Desktop App made for [Hugo](https://gohugo.io). Read all about
-[creating Hugo websites](https://gohugo.io/getting-started/quick-start/).
 
-To change this about text, edit this file: ```./quiqr/home/index.md```.
+The Paper template is based on the Paper theme. A simple, clean, flexible Hugo theme.
 
-Happy Creating.
+Read more about the the Paper theme on the [original project page](https://github.com/nanxiaobei/hugo-paper).
+
+In **Site Config** you can change the behaviour of the website. 
+
+To change this text and do more advanged stuff you need be in the **Site Developer** role. Read [all about roles](https://book.quiqr.org/docs/15-site-and-cms-development/01-user-roles/) in Quiqr.
 
 ❤️ Quiqr
