@@ -1,6 +1,6 @@
 - dataformat: yaml
   description: Pages like about, etc...
-  folder: content/
+  folder: content/page/
   itemtitle: Page
   key: pages
   title: Pages
