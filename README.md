@@ -6,4 +6,6 @@
 
 A Quiqr Template based on the famous [Paper hugo theme](https://github.com/nanxiaobei/hugo-paper).
 
+[Demo](https://mipmip.github.io/quiqr-paper-themed-template/)
+
 
